@@ -142,7 +142,7 @@ local Translations = {
         pol_armory = 'Polisförråd',
     },
     email = {
-        sender = 'Statliga Inkassomyndigheten,
+        sender = 'Statliga Inkassomyndigheten',
         subject = 'Skuldindrivning',
         message = 'Hej %{value}. %{value2}, <br /><br />Den Statliga Inkassomyndigheten har debiterat ditt konto för de böter du tagit emot från polisen.<br />Det har debiterats <strong>$%{value3}</strong> totalt från ditt konto.<br /><br />Med vänliga hälsningar,<br />Fru Lina Svensson på inkasso',
     },
